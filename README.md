@@ -32,7 +32,6 @@ g) To quit, use the '\q' command.
 
 a) Do as above, but name it as bookmark_manager_test.
 
-=======
-
+======= \q
 g) To quit, use the '\q' command.
 >>>>>>> f608a589601f9400676fc9c86dd889e31abdb31a
