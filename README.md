@@ -24,7 +24,6 @@ d) Connect to the database using the pqsl command '\c', then the name of the dat
 e) Inspect the list of tables using the command '\d'. There should be a database there there, under 'Names', with the name "bookmarks".
 
 f) Run the query we have saved in the file 01_create_bookmarks_table.sql.
-<<<<<<< HEAD
 g) To quit, use the '\q' command.
 
 
@@ -32,6 +31,4 @@ g) To quit, use the '\q' command.
 
 a) Do as above, but name it as bookmark_manager_test.
 
-======= \q
 g) To quit, use the '\q' command.
->>>>>>> f608a589601f9400676fc9c86dd889e31abdb31a
